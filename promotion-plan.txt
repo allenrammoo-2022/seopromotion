@@ -1,0 +1,30 @@
+CodeCraft Tutoring — Social Media Promotion Plan
+
+Client: CodeCraft Tutoring
+
+Product/Service:
+CodeCraft Tutoring provides online and in-person coding tutoring for kids and beginners. Lessons include HTML, CSS, Python, beginner programming concepts, and small coding projects.
+
+Target Audience:
+The primary target audience is parents and guardians of children ages 8–16 who are interested in STEM education and beginner programming. The secondary audience is adult beginners who want to learn coding for school, personal development, hobbies, or career development.
+
+Platforms:
+YouTube — coding tutorials, demonstrations, beginner projects, and educational videos.
+Instagram — short coding tips, reels, visual learning posts, and workshop announcements.
+Facebook — parent-focused updates, community posts, workshop information, and student success stories.
+
+Hashtags:
+#LearnToCode
+#BeginnerCoding
+#KidsWhoCode
+#CodeWithConfidence
+#CodeCraftTutoring
+
+Promotional Strategy:
+CodeCraft Tutoring will use YouTube to publish useful beginner coding lessons and project demonstrations. Instagram will be used for short coding tips, engaging visuals, reels, and workshop announcements, while Facebook will help reach parents and adult learners through community posts and educational content. Consistent branding, relevant hashtags, and clear calls to action will encourage visitors to learn more through the website.
+
+SEO and Technical Decisions:
+The website uses a descriptive page title, meta description, keywords, author information, robots instructions, and Open Graph metadata. Semantic HTML elements such as header, nav, main, section, article, and footer are used to improve organization and accessibility. Social media links use safe example.com placeholder URLs for academic testing.
+
+Note:
+CodeCraft Tutoring is a fictional business created solely for this academic project.
